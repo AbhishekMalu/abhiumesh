@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK MALU</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=40% src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **Django, Flask**
 
 - 📝 I have written article on Web development Roadmap [https://abhiumesh-web-development-roadmap-web-dev-roadmap-nq719b.streamlitapp.com/](https://abhiumesh-web-development-roadmap-web-dev-roadmap-nq719b.streamlitapp.com/)
